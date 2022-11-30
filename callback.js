@@ -1,5 +1,4 @@
 function callback(mensajeDevLights) {
-
     console.log("Este es un callback:", mensajeDevLights);
   }
   function mensajeDevLights(){
